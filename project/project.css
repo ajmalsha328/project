@@ -1,0 +1,395 @@
+.header{
+	width: 100%;
+	
+
+}
+.img1{
+	text-align: left;
+	padding-left: 80px;
+	padding-top: 10px;
+}
+.li1{
+	text-align: right;
+	word-spacing: 20px;
+	margin-top: -60px;
+	margin-right: 300px;
+
+}
+.li1 li{
+	display: inline-block;
+	text-decoration: none;
+
+}
+.loginmain{
+	float: right;
+	margin-top: -45px;
+	margin-right: 180px;
+	background-color: #fff;
+	border: 2px solid #12daab;
+	border-radius: 5px;
+
+}
+.liginword{
+	padding-top: 2px;	
+	cursor: pointer;
+	color: #12daab;
+	font-size: 15px;
+}
+.signin{
+	width: 80px;
+	height: 30px;
+	border:1px solid #12daab;
+	border-radius: 5px;
+	background:#12daab;
+	float: right;
+	text-align: center;
+	color: white;
+	margin-top: -45px;
+	margin-right: 80px;
+	padding-top: 2px;
+	cursor: pointer;
+	clear: both;
+}
+.main2{
+	margin-bottom: 100px;
+}
+.img2{
+	margin-left: 200px;
+	margin-top: 80px;
+}
+.headding{
+	
+	margin-top: -140px;
+}
+.headding h1{
+	font-size: 50px;
+	text-align: center;
+}
+.para1{
+	text-align: center;
+	margin-top: -40px;
+
+}
+.para1 p{
+	font-size: 20px;
+	font-weight: bold;
+	color: #808080;
+}
+.img3{
+	float: right;
+	margin-top: -100px;
+}
+.mainbanner1{
+	background: url('banner1.jpg');
+	background-size: cover;
+	width: 100%;
+	height: 400px;
+	
+}
+.searchcontainer{
+	width:900px;
+	height: 80px;
+	border-radius: 20px;
+	border: 1px solid #DCDCDC ;
+	margin-left: 200px; 
+	margin-top: -50px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	
+
+}
+.searchcontainer select{
+	text-decoration: none;
+}
+.searchcontainer p{
+	font-size: 13px;
+}
+.cel1{
+	border-right: 1px solid black;
+	margin-top: -10px;
+}
+.cel2{
+	border-right: 1px solid black;
+	margin-top: -10px;
+}
+.cel3{
+	border-right: 1px solid black;
+	margin-top: -10px;
+}
+.cel4{
+	border-right: 1px solid black;
+	margin-top: -10px;
+}
+.search1{
+	width: 100px;
+	height: 35px;
+	border:1px solid #12daab;
+	border-radius: 5px;
+	background:#12daab;
+	float: right;
+	text-align: center;
+	color: white;
+	margin-top: -65px;
+	margin-right: 300px;
+	padding-top: 7px;
+	cursor: pointer;
+	padding: 0px;
+}
+.apartments{
+	width: 100%;
+	margin: 0 auto;
+	
+
+}
+.featured{
+	text-align: center;
+	margin-top: 80px;
+}
+.featured p{
+	font-weight: bold;
+	color: #808080;
+	font-size: 23px;
+}
+.yellowline{
+	border-bottom: 7px solid #FFD700;
+
+}
+.linecontrol{
+	margin-left: 630px;
+	margin-top: -25px;
+}
+.cureted{
+	text-align: center;
+	margin-top: -20px;
+}
+.aptmsrow1{
+	width: 1000px;
+	margin: 0 auto;
+}
+.aptmsrow1 h4{
+	color: #12daab;
+
+}
+.apcel1{
+	border: 1px solid #DCDCDC;
+	border-radius: 9px;
+	overflow: hidden;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.z{
+	margin-top: -8px;
+	padding-left: 10px;
+}
+.y{
+	padding-left: 10px;
+	margin-top: -15px;
+}
+.y p{
+	font-size: 12px;
+}
+.aptmsrow2{
+	width: 1000px;
+	margin: 0 auto;
+}
+.aptmsrow2 h4{
+	color: #12daab;
+
+}
+.a{
+	display: inline-block;
+	padding-top: -4px;
+}
+.a p{
+	font-size: 13px;
+}
+.fast{
+	margin-top: 100px;
+	width: 100%;
+	
+	background-color:#f7fbfe;
+}
+.simple{
+	text-align: center;
+	padding-top: 100px;
+}
+.simple p{
+	font-weight: bold;
+	color: #808080;
+	font-size: 23px;
+}
+.how{
+	text-align: center;
+	margin-top: -20px;
+}
+.step3img{
+
+}
+.searchandfind{
+	margin-left: 63px;
+
+}
+.searchandfind p{
+	font-weight: bold;
+}
+.searchdiv2{
+	width: 200px;
+	height: 40px;
+	background-color:#12daab;
+	text-align: center;
+	border-radius: 4px; 
+	border: 1px solid #12daab;
+}
+.sl{
+	padding-top: 0px;
+	cursor: pointer;
+	color: white;
+}
+.talk{
+	margin-left: 10px;
+}
+.talk p{
+	font-weight: bold;
+}
+.rental p{
+	font-weight: bold;
+
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  border-radius: 10px;
+  background-color: white;
+  overflow: hidden;
+}
+.card p{
+	text-align: left;
+}
+.hialissa {
+    border: 1px solid #A9A9A9;
+    width: 250px;
+    height: 100px;
+    margin-left: 20px;
+    padding-left: 10px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.bluefooter {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color:#483D8B;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+
+
+.bluefooter:hover, a:hover {
+  opacity: 0.8;
+}
+
+.applydiv2{
+	width: 200px;
+	height: 40px;
+	background-color:#12daab;
+	text-align: center;
+	border-radius: 4px; 
+	border: 1px solid #12daab;
+}
+.an{
+	color: white;
+	padding-top: 0px;
+	cursor: pointer;
+}
+.brooclyn{
+	float: right;
+	cursor: pointer;
+	
+}
+.companyinfo{
+	width: 100%;
+	
+	background-color: #f7fbfe;
+}
+.location{
+	margin-top: 20px;
+	margin-left: 10px;
+}
+.location p{
+	display: inline-block;
+	font-size: 13px;
+	font-weight: bold;
+}
+.msg{
+	margin-top: -12px;
+	margin-left: 10px;
+}
+.msg p{
+	display: inline-block;
+	font-size: 13px;
+	font-weight: bold;
+}
+.mobile{
+	margin-top: -12px;
+	margin-left: 10px;
+}
+.mobile p{
+	display: inline-block;
+	font-size: 13px;
+	font-weight: bold;
+}
+.info h4{
+	color: #12daab;
+	text-align: center;
+}
+.info li{
+	list-style: none;
+}
+.rental{
+	margin-left: 63px;
+}
+.rentals h4{
+	color: #12daab;
+	text-align: center;
+}
+.rentals li{
+	list-style: none;
+}
+.roommates h4{
+	color: #12daab;
+	text-align: center;
+}
+.roommates li{
+	list-style: none;
+}
+.lastbluediv{
+	background-color:#483D8B;
+
+}
+.bluebooklyn{
+	float: right;
+}
+.bluebooklyn li{
+	list-style: none;
+	color: white;
+}
+.bluebooklyn h4{
+	color: white;
+	text-align: center;
+}
+.bluequeens h4{
+	color: white;
+	text-align: left;
+}
+.bluequeens p{
+	font-weight: bold;
+	color: white;
+}
